@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weathersmith
-- 👀 I’m interested in meteorology.
-- 🌱 I’m currently learning meteorology through Mississippi State University. Specifically through their online BOMP program
-- 💞️ I’m looking to collaborate on tools for weather forecasting. I know stuff like METpy exists and I intend to educate myself on that thoroughly, but I seek to build more.
+- 👀 I’m interested in meteorological tools 
+- 🌱 I’ve a B.S. in Geosciences, concentration in Operational Meteorology
+- 💞️ I’m looking to advance my knowledge in metpy and build useful scripts and tool with it and others.
 - 📫 How to reach me: wxwhiskeyxray@gmail.com
 - I will update this readme file as I see fit in the future
 
